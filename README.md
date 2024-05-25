@@ -2,8 +2,6 @@
 <br>
 The goal of this project is try to develop a computer vision based software for mouse events like air mouse, volume and opening youtube by using Hand Gestures.
 <br>
-Try to develop a computer vision based keyboard.
-<br>
 Try to develop a computer vision based mouse.
 
 📋 Requirements
